@@ -1,4 +1,14 @@
+<a href="https://www.ufm.edu.vn" target="_blank">
+  <img src="https://dongphucgau.vn/wp-content/uploads/2025/08/dong-phuc-ufm-2.jpg" alt="Trường Đại học Tài chính - Marketing">
+</a>
+
+---
 # CANIFA Sales Management System
+
+## Môn Học: Phân tích và thiết kế hệ thống
+
+### Thực Hiện Bởi: Trịnh Thị Minh Phương
+### Giảng viên: ThS. Lê Thị Kim Thoa
 
 ## 📌 Overview
 
@@ -83,8 +93,17 @@ The system provides the following core functionalities:
 
 ## 📷 Demo
 
-(Screenshots in /demo folder)
+### Login Screen
+![Login](https://github.com/MimiPhuong/canifa-sales-management-system/blob/main/Login.PNG?raw=true)
+
+### Invoice 
+![Invoice](https://github.com/MimiPhuong/canifa-sales-management-system/blob/main/Invoice.PNG?raw=true)
+
+### Invoice Management
+![Invoice Management](https://github.com/MimiPhuong/canifa-sales-management-system/blob/main/ManageInvoice.PNG?raw=true)
+
+### Sales Report Dashboard
+![Sales Report](https://github.com/MimiPhuong/canifa-sales-management-system/blob/main/Report.PNG?raw=true)
 
 ---
 
-## 📁 Project Structure
